@@ -1,4 +1,4 @@
-# Relational Causal Discovery Light (RCD)
+# Relational Causal Discovery (RCD)
 
 
 
