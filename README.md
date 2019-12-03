@@ -4,6 +4,10 @@
 
 This is a copy of source code for the causal structure learning algorithm called Relational Causal Discovery (RCD). This copy is created primarily to provide updated support for the dependencies. The original software was written quite some time ago. As a result, some of the dependency packages doesn't work as expected. This updated configuration is tested in Mac OS X Mojave. The original software is available [here](https://kdl-umass.github.io/relational_causal_discovery.html).
 
+Please refer to the [changes](https://github.com/ragib06/RCD/blob/master/changes.md) file to review the changes made to original software.
+
+
+---
 Relational Causal Discovery (RCD) is a sound and complete algorithm for learning causal models from relational data. RCD employs a novel rule, called relational bivariate orientation, that can can detect the orientation of a bivariate dependency with no assumptions on the underlying distribution. Combined with relational extensions to the rules utilized by the PC algorithm[1], RCD is provably sound and complete under the causal sufficiency assumption. Given a database and schema, RCD outputs a partially directed model that represents the equivalence class of statistically indistinguishable relational causal models.
 
 Please checkout [RCD-Light](https://github.com/sanghack81/rcd-light), which is the successor of RCD.
