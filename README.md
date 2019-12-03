@@ -42,6 +42,8 @@ Please checkout [RCD-Light](https://github.com/sanghack81/rcd-light), which is t
 - Run Database Example: 
 	- Configure Postgres database and load the dump file **src/rcd-test-data.sql**
 	
+	- Then run the following: 
+
 		```python src/runDatabaseRCD.py```
 
 ----------
