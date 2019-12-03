@@ -1,0 +1,45 @@
+name: rcd
+channels:
+  - rwest
+  - vgauthier
+  - conda-forge
+  - defaults
+  - ostrokach
+dependencies:
+  - ca-certificates=2019.11.28=hecc5488_0
+  - certifi=2019.11.28=py36_0
+  - libpq=9.6.3=0
+  - ncurses=5.9=10
+  - openssl=1.0.2t=h1de35cc_0
+  - pip=19.3.1=py36_0
+  - psycopg2=2.7.5=py36hdffb7b8_2
+  - python=3.6.0=2
+  - readline=6.2=0
+  - setuptools=42.0.1=py36_0
+  - sqlite=3.13.0=1
+  - tk=8.5.19=2
+  - wheel=0.33.6=py36_0
+  - xz=5.2.4=h1de35cc_1001
+  - zlib=1.2.11=h0b31af3_1006
+  - pip:
+    - attrs==19.3.0
+    - cffi==1.13.2
+    - importlib-metadata==0.23
+    - jinja2==2.10.3
+    - markupsafe==1.1.1
+    - mock==1.0.1
+    - more-itertools==7.2.0
+    - networkx==1.7
+    - numpy==1.7.0
+    - packaging==19.2
+    - pluggy==0.13.1
+    - py==1.8.0
+    - pycparser==2.19
+    - pyparsing==2.4.5
+    - pytest==5.3.1
+    - rpy2==3.0.0
+    - simplegeneric==0.8.1
+    - six==1.13.0
+    - wcwidth==0.1.7
+    - zipp==0.6.0
+
